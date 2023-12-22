@@ -1,0 +1,16 @@
+{
+    "name": "loftytech/superban",
+    "description": "Request limiting",
+    "autoload": {
+        "psr-4": {
+            "Loftytech\\Superban\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "loftytech",
+            "email": "58659264+loftytech@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
